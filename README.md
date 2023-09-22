@@ -2,6 +2,8 @@
 
 www.dio.me
 
+### Desafio de projeto da trilha .NET da DIO.
+
 ## Contexto
 
 Foi feito um sistema para um estacionamento, que será usado para gerenciar os veículos estacionados e realizar suas operações, como por exemplo adicionar um veículo, remover um veículo (e exibir o valor cobrado durante o período) e listar os veículos. Além disso foi feito o uso do regex para validação da placa do carro.
